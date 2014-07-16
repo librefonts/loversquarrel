@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="LoversQuarrel-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="LoversQuarrel-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="LoversQuarrel-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="LoversQuarrel-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="LoversQuarrel-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="LoversQuarrel-Regular.ttf._h_m_t_x.ttx"/>
+  <cmap src="LoversQuarrel-Regular.ttf._c_m_a_p.ttx"/>
+  <prep src="LoversQuarrel-Regular.ttf._p_r_e_p.ttx"/>
+  <loca src="LoversQuarrel-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="LoversQuarrel-Regular.ttf._g_l_y_f.ttx"/>
+  <name src="LoversQuarrel-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="LoversQuarrel-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="LoversQuarrel-Regular.ttf._g_a_s_p.ttx"/>
+  <FFTM src="LoversQuarrel-Regular.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="LoversQuarrel-Regular.ttf.G_D_E_F_.ttx"/>
+  <DSIG src="LoversQuarrel-Regular.ttf.D_S_I_G_.ttx"/>
+</ttFont>
